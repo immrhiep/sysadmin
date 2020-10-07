@@ -1,6 +1,6 @@
 # Configuring a private network in Linux
 ## Table of Content
-1. [Centos](##Centos)
+1. [Centos](## Centos)
 2. [Ubuntu]()
 3. [Debian]()
 
